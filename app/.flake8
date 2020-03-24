@@ -7,3 +7,7 @@ exclude =
 
 script:
   - flake8 . --exit-zero  
+
+filename =
+    admin.py,
+    test_admin.py  
